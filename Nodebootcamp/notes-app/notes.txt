@@ -1,0 +1,1 @@
+this project is to further my knowledge of node.js and develop my skillsappendFileSync method allows us to add this string into the notes.txt file when you run yor codeappendFileSync method allows us to add this string into the notes.txt file when you run yor code
